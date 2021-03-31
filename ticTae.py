@@ -15,5 +15,4 @@ def DrawMove():
 
 DrawMove()
 
-print ("helllllo")
 
